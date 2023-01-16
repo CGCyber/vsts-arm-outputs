@@ -2,10 +2,10 @@
     "manifestVersion": 1,
     "id": "arm-outputs",
     "name": "ARM Outputs",
-    "version": "6.0.0",
-    "publisher": "keesschollaart",
+    "version": "1.0.0",
+    "publisher": "CGCyber",
     "public": true,
-    "helpMarkDown": "[More Information](https://github.com/keesschollaart81/vsts-arm-outputs)",
+    "helpMarkDown": "[More Information](https://github.com/CGCyber/devops-arm-outputs)",
     "targets": [
         {
             "id": "Microsoft.VisualStudio.Services"
@@ -47,13 +47,13 @@
     },
     "links": {
         "getstarted": {
-            "uri": "https://github.com/keesschollaart81/vsts-arm-outputs"
+            "uri": "https://github.com/CGCyber/devops-arm-outputs"
         },
         "support": {
-            "uri": "https://github.com/keesschollaart81/vsts-arm-outputs"
+            "uri": "https://github.com/CGCyber/devops-arm-outputs"
         },
         "issues": {
-            "uri": "https://github.com/keesschollaart81/vsts-arm-outputs/issues"
+            "uri": "https://github.com/CGCyber/devops-arm-outputs/issues"
         }
     },
     "badges": [
@@ -116,6 +116,6 @@
     ],
     "repository": {
         "type": "git",
-        "uri": "https://github.com/keesschollaart81/vsts-arm-outputs"
+        "uri": "https://github.com/CGCyber/devops-arm-outputs"
     }
 }
